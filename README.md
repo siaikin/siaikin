@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
+From: 22 March 2022 - To: 29 March 2022
+
+Total Time: 23 hrs 56 mins
+
 Vue.js           15 hrs 1 min    ███████████████▓░░░░░░░░░   62.74 %
 JavaScript       3 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
 TypeScript       3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
