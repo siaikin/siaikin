@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 31 March 2022 - To: 07 April 2022
+
+Total Time: 20 mins
+
+JavaScript   13 mins         ████████████████░░░░░░░░░   64.00 %
+JSON         7 mins          ████████▓░░░░░░░░░░░░░░░░   34.47 %
+Vue.js       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
