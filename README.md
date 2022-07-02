@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 June 2022 - To: 30 June 2022
+From: 24 June 2022 - To: 01 July 2022
 
-Total Time: 31 hrs 52 mins
+Total Time: 30 hrs 8 mins
 
-TypeScript       11 hrs 59 mins  █████████▒░░░░░░░░░░░░░░░   37.63 %
-Vue.js           7 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
-JavaScript       6 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
-HTML             2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-JSON             1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-LESS             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+TypeScript       13 hrs 1 min    ██████████▓░░░░░░░░░░░░░░   43.22 %
+JavaScript       7 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+Vue.js           4 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+HTML             2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+JSON             1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+LESS             31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
