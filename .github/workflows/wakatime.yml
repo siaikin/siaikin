@@ -15,7 +15,7 @@ jobs:
       with:
         # ... other options
         token: ${{ secrets.METRICS_TOKEN }}
-        plugin_wakatime: true
+        plugin_wakatime: yes
         plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
         plugin_wakatime_days: 7                                   # Display last week stats
         plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os # Display time and projects sections, along with projects graphs
