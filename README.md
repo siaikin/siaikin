@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 🙋，我是 siaikin
+
+一名普通开发者
+
+前端开发是我的主业，也在使用 Golang 开发服务端程序。目前在进行数据可视化方向的学习。
 
 <!--
 **siaikin/siaikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![This is an image](./github-metrics.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siaikin&hide=C#)
+![siaikin's github stats](https://github-readme-stats.vercel.app/api?username=siaikin&show_icons=true&count_private=true&line_height=40)
