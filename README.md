@@ -2,7 +2,7 @@
 
 一名普通开发者
 
-前端开发是我的主业，也在使用 Golang 开发服务端程序。目前在进行数据可视化方向的学习。
+前端开发是我的主要工作，我也在使用 Golang 开发服务端程序。目前在进行**数据可视化**方向的学习。
 
 <!--
 **siaikin/siaikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
