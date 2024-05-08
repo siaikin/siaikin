@@ -4,6 +4,8 @@
 
 前端开发是我的主要工作，我也在使用 Golang 开发服务端程序。目前在进行**数据可视化**方向的学习。
 
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat-square&color=blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24915%26project%3D%26in=604800000)](https://codetime.dev)
+
 <!--
 **siaikin/siaikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
